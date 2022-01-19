@@ -1,7 +1,7 @@
 # Makkah-Region-Weather-Deep-learning
+![images](https://user-images.githubusercontent.com/79373504/150219075-af4b9aae-5d67-49b9-a342-56553019714d.jpeg)
 
 
-![TLC logo](/Users/qabas/Pictures/images.jpeg)
 
 # Description:
 Weather forecasting is most challenging problem around the world. There are various reason because of its experimented values in meteorology, but it is also a typical unbiased time series forecasting problem . The motive behind research is to predict the temperature and weather in Makkah city .This project contribute the same using artificial neural network (ANN) 
