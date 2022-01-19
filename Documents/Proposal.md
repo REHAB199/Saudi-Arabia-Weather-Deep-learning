@@ -1,7 +1,6 @@
 # Makkah-Region-Weather-Deep-learning
  <p align="center">
-  <img width="600" height="200" src="https://user-images.githubusercontent.com/79373504/150221924-fc7932e9-1334-419e-a6f9-789f31b8bfcf.jpeg
-">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/79373504/150221924-fc7932e9-1334-419e-a6f9-789f31b8bfcf.jpeg">
 </p>
 
 
