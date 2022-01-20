@@ -19,9 +19,11 @@ The data used in this project are the  hourly historical weather data for Makkah
 * We applied different Models techniques (LSTM, CNN, MLP), and applied feature extraction technique RMSE to extract the most important features from the Weather files and then we applied neural network algorithms using dense layers with relu activation functions
 
 We create a base line model (LSTM RMSE: 0.137296)
+<img width="637" alt="Screen Shot 1443-06-17 at 3 21 54 AM" src="https://user-images.githubusercontent.com/79373504/150239732-bc216283-cbaa-41d5-8aa4-cf54ef2363c0.png">
 
 
-Tools:
+
+# Tools:
 * Numpy and Pandas for data manipulation.
 * Sklearn-Scikit-learn for modeling.
 * Matplotlib and Seaborn for plotting
