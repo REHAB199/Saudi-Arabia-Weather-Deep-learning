@@ -16,10 +16,12 @@ In google colab to predict weather history such as temperature, wind, humidity, 
 The data used in this project are the  hourly historical weather data for Makkah city from 2017 to 2019. Included a date for which you would like to see weather such as temperature, wind, humidity, barometer, and visibility, collected on an hourly basis, and there are no missing values
 
 # Algorithms:
-* We applied different Models techniques (LSTM, CNN, MLP), and applied feature extraction technique RMSE to extract the most important features from the Weather files and then we applied neural network algorithms using dense layers with relu activation functions
+* We applied different Models techniques (LSTM, Biderictinal LSTM, Stacked LSTM big & Small)
+, and applied feature extraction technique RMSE to extract the most important features from the Weather files and then we applied neural network algorithms using dense layers with relu activation functions
 
-We create a base line model (LSTM RMSE: 0.137296)
-<img width="637" alt="Screen Shot 1443-06-17 at 3 21 54 AM" src="https://user-images.githubusercontent.com/79373504/150239732-bc216283-cbaa-41d5-8aa4-cf54ef2363c0.png">
+We create a baseline model (Lag1 RMSE: 0.007128024)&(lag2 RMSE: 2.215565)
+![WhatsApp Image 2022-01-20 at 1 53 41 PM](https://user-images.githubusercontent.com/79373504/150328009-f85e9f2d-5a5b-42f8-86db-f579f90d07de.jpeg)
+
 
 
 
